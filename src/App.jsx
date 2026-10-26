@@ -4,6 +4,7 @@ import "./App.css";
 
 const foods = [
   { name: "Roti", calories: 297, protein: 9.0, carbs: 55.0, fat: 7.5 },
+  { name: "Sabji", calories: 297, protein: 9.0, carbs: 55.0, fat: 7.5 },
   { name: "Cooked white rice", calories: 130, protein: 2.7, carbs: 28.2, fat: 0.3 },
   { name: "Dal", calories: 116, protein: 7.5, carbs: 20.0, fat: 0.4 },
   { name: "Paneer", calories: 265, protein: 18.3, carbs: 1.2, fat: 20.8 },
